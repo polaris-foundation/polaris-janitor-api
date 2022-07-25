@@ -1,0 +1,326 @@
+{
+  "question": [
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I am satisfied with my current treatment.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I am satisfied that the treatment I am receiving is the best for me.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I am satisfied with my understanding of diabetes.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I feel my maternity diabetes team knows enough about my current level of diabetes control.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I feel I have a good relationship with my maternity diabetes team.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I am satisfied with my maternity diabetes team's understanding of my diabetes.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I find the equipment I use to check my blood sugars is convenient.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I feel the equipment I use to check my blood sugars is reliable.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "My blood sugar monitoring fits with my lifestyle.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    },
+    {
+      "groups": [
+        {
+          "group": "patient_satisfaction_survey"
+        }
+      ],
+      "question": "I enjoy using this app.",
+      "question_options": [
+        {
+          "question_option_type": 2,
+          "text": "Strongly Disagree",
+          "value": "1"
+        },
+        {
+          "question_option_type": 3,
+          "text": "Strongly Agree",
+          "value": "5"
+        },
+        {
+          "question_option_type": 4,
+          "value": "1"
+        }
+      ],
+      "question_type": {
+        "value": 5
+      }
+    }
+  ],
+  "question_option_type": [
+    {
+      "uuid": "fixed",
+      "value": 0
+    },
+    {
+      "uuid": "free_text",
+      "value": 1
+    },
+    {
+      "uuid": "range_start",
+      "value": 2
+    },
+    {
+      "uuid": "range_end",
+      "value": 3
+    },
+    {
+      "uuid": "interval",
+      "value": 4
+    }
+  ],
+  "question_type": [
+    {
+      "uuid": "free_text",
+      "value": 0
+    },
+    {
+      "uuid": "integer",
+      "value": 1
+    },
+    {
+      "uuid": "checkbox",
+      "value": 2
+    },
+    {
+      "uuid": "radio",
+      "value": 3
+    },
+    {
+      "uuid": "drop_down",
+      "value": 4
+    },
+    {
+      "uuid": "range",
+      "value": 5
+    },
+    {
+      "uuid": "multi_select",
+      "value": 6
+    }
+  ]
+}

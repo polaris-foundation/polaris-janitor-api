@@ -1,0 +1,1200 @@
+{
+  "clinician": [
+    {
+      "can_edit_ews": true,
+      "email_address": "wolrab@mail.com",
+      "first_name": "OJ",
+      "groups": [
+        "GDM Superclinician",
+        "SEND Superclinician",
+        "DBM Superclinician"
+      ],
+      "job_title": "midwife",
+      "last_name": "Wolrab",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "555005525108",
+      "phone_number": "07933456825",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        },
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        },
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "666666",
+      "uuid": "static_clinician_uuid_A"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "h.white@mail.com",
+      "first_name": "Hollie",
+      "groups": [
+        "GDM Clinician",
+        "SEND Clinician",
+        "DBM Clinician"
+      ],
+      "job_title": "midwife",
+      "last_name": "White",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2",
+        "static_location_uuid_L3",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "444552235153",
+      "phone_number": "07635273517",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        },
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        },
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "295753",
+      "uuid": "static_clinician_uuid_B"
+    },
+    {
+      "can_edit_ews": false,
+      "email_address": "k.welsh@mail.com",
+      "first_name": "Kiara",
+      "groups": [
+        "GDM Administrator"
+      ],
+      "job_title": "midwife",
+      "last_name": "Welsh",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "6666116636219",
+      "phone_number": "07864826423",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_uuid_C"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "a.oneill@mail.com",
+      "first_name": "Aubrey",
+      "groups": [
+        "GDM Clinician",
+        "SEND Clinician"
+      ],
+      "job_title": "midwife",
+      "last_name": "O'Neill",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "7837628374829",
+      "phone_number": "07846385826",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        },
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "578365",
+      "uuid": "static_clinician_uuid_D"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sally@mail.com",
+      "first_name": "Sally",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Sender",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456789012",
+      "phone_number": "07777777777",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "111111",
+      "uuid": "static_clinician_uuid_E"
+    },
+    {
+      "can_edit_ews": false,
+      "email_address": "maureen.splange@mail.com",
+      "first_name": "Maureen",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "IT Administrator",
+      "last_name": "Splange",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "173486582143",
+      "phone_number": "07777777777",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "777777",
+      "uuid": "static_clinician_uuid_F"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "stan.lee@mail.com",
+      "first_name": "Stan",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Ward Clark",
+      "last_name": "Lee",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "173486582143",
+      "phone_number": "07777777777",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "888888",
+      "uuid": "static_clinician_uuid_G"
+    },
+    {
+      "can_edit_ews": false,
+      "email_address": "Moe@mail.com",
+      "first_name": "Moe",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "midwife",
+      "last_name": "Smith",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "555005525108",
+      "phone_number": "07933456825",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_uuid_H"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "wolf@mail.com",
+      "first_name": "Alice",
+      "groups": [
+        "DBM Superclinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Wolf",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "555005525222",
+      "phone_number": "07933456222",
+      "products": [
+        {
+          "opened_date": "2020-01-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "666222",
+      "uuid": "dbm_test_clinician_uuid_1"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "malcolm@mail.com",
+      "first_name": "Oliver",
+      "groups": [
+        "DBM Clinician"
+      ],
+      "job_title": "nurse",
+      "last_name": "Malcolm",
+      "locations": [
+        "static_location_uuid_L2",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "555005525333",
+      "phone_number": "07933456333",
+      "products": [
+        {
+          "opened_date": "2020-01-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "666333",
+      "uuid": "dbm_test_clinician_uuid_2"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "marling@mail.com",
+      "first_name": "Laura",
+      "groups": [
+        "DBM Clinician"
+      ],
+      "job_title": "nurse",
+      "last_name": "Marling",
+      "locations": [
+        "static_location_uuid_L3",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "555005525444",
+      "phone_number": "07933456444",
+      "products": [
+        {
+          "opened_date": "2020-01-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "666444",
+      "uuid": "dbm_test_clinician_uuid_3"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "g.rob@mail.com",
+      "first_name": "Grant",
+      "groups": [
+        "DBM Clinician"
+      ],
+      "job_title": "diabetes nurse",
+      "last_name": "Rob",
+      "locations": [
+        "static_location_uuid_L3",
+        "static_organisation_uuid_O1"
+      ],
+      "nhs_smartcard_number": "498760305502",
+      "phone_number": "07635273517",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "320533",
+      "uuid": "static_clinician_uuid_I"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today:-2}",
+      "email_address": "piper.cremin@mail.com",
+      "first_name": "Piper",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Cremin",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785820",
+      "phone_number": "077771507547",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@111111111",
+      "uuid": "static_clinician_uuid_T1"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today:-1}",
+      "email_address": "lazaro.vandervort@mail.com",
+      "first_name": "Lazaro",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "nurse",
+      "last_name": "Vandervort",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785821",
+      "phone_number": "077772500915",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@222222222",
+      "uuid": "static_clinician_uuid_T2"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today}",
+      "email_address": "felipa.streich@mail.com",
+      "first_name": "Felipa",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Streich",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785822",
+      "phone_number": "077779669298",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@333333333",
+      "uuid": "static_clinician_uuid_T3"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today:+1}",
+      "email_address": "rodolfo.funk@mail.com",
+      "first_name": "Rodolfo",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Funk",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785823",
+      "phone_number": "077777669174",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@444444444",
+      "uuid": "static_clinician_uuid_T4"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today:+2}",
+      "email_address": "gabriel.adams@mail.com",
+      "first_name": "Gabriel",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "nurse",
+      "last_name": "Adams",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785824",
+      "phone_number": "077774092438",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@555555555",
+      "uuid": "static_clinician_uuid_T5"
+    },
+    {
+      "can_edit_ews": false,
+      "contract_expiry_eod_date": "{today:+30}",
+      "email_address": "bobby.reilly@mail.com",
+      "first_name": "Bobbie",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "doctor",
+      "last_name": "Reilly",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "nhs_smartcard_number": "123456785824",
+      "phone_number": "077774092438",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "@666666666",
+      "uuid": "static_clinician_uuid_T6"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendstandard1.clinician@mail.com",
+      "first_name": "Standard 1",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666001",
+      "uuid": "static_clinician_send_standard_1"
+    },
+    {
+      "can_edit_ews": true,
+      "contract_expiry_eod_date": "{today:+100}",
+      "email_address": "sendtemporary1.clinician@mail.com",
+      "first_name": "Temporary 1",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Temporary Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666002",
+      "uuid": "static_clinician_send_temporary_1"
+    },
+    {
+      "email_address": "sendadmin1.clinician@mail.com",
+      "first_name": "Admin 1",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "Administrator",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666003",
+      "uuid": "static_clinician_send_admin_1"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendsuper1.clinician@mail.com",
+      "first_name": "Super 1",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666004",
+      "uuid": "static_clinician_send_super_1"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmstandard1.clinician@mail.com",
+      "first_name": "GDM Standard 1",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-GDM",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_standard_1"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmsuper1.clinician@mail.com",
+      "first_name": "Super 1",
+      "groups": [
+        "GDM Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-GDM",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_super_1"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendstandard2.clinician@mail.com",
+      "first_name": "Standard 2",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666005",
+      "uuid": "static_clinician_send_standard_2"
+    },
+    {
+      "can_edit_ews": true,
+      "contract_expiry_eod_date": "{today:+100}",
+      "email_address": "sendtemporary2.clinician@mail.com",
+      "first_name": "Temporary 2",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Temporary Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666006",
+      "uuid": "static_clinician_send_temporary_2"
+    },
+    {
+      "email_address": "sendadmin2.clinician@mail.com",
+      "first_name": "Admin 2",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "Administrator",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666007",
+      "uuid": "static_clinician_send_admin_2"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendsuper2.clinician@mail.com",
+      "first_name": "Super 2",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666008",
+      "uuid": "static_clinician_send_super_2"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmstandard2.clinician@mail.com",
+      "first_name": "GDM Standard 2",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-GDM",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_standard_2"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmsuper2.clinician@mail.com",
+      "first_name": "Super 2",
+      "groups": [
+        "GDM Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-GDM",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_super_2"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendstandard3.clinician@mail.com",
+      "first_name": "Standard 3",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666009",
+      "uuid": "static_clinician_send_standard_3"
+    },
+    {
+      "can_edit_ews": true,
+      "contract_expiry_eod_date": "{today:+100}",
+      "email_address": "sendtemporary3.clinician@mail.com",
+      "first_name": "Temporary 3",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Temporary Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666010",
+      "uuid": "static_clinician_send_temporary_3"
+    },
+    {
+      "email_address": "sendadmin3.clinician@mail.com",
+      "first_name": "Admin 3",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "Administrator",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666011",
+      "uuid": "static_clinician_send_admin_3"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendsuper3.clinician@mail.com",
+      "first_name": "Super 3",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666012",
+      "uuid": "static_clinician_send_super_3"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmstandard3.clinician@mail.com",
+      "first_name": "GDM Standard 3",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-GDM",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_standard_3"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmsuper3.clinician@mail.com",
+      "first_name": "Super 3",
+      "groups": [
+        "GDM Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-GDM",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_super_3"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendstandard4.clinician@mail.com",
+      "first_name": "Standard 4",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666013",
+      "uuid": "static_clinician_send_standard_4"
+    },
+    {
+      "can_edit_ews": true,
+      "contract_expiry_eod_date": "{today:+100}",
+      "email_address": "sendtemporary4.clinician@mail.com",
+      "first_name": "Temporary 4",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Temporary Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666014",
+      "uuid": "static_clinician_send_temporary_4"
+    },
+    {
+      "email_address": "sendadmin4.clinician@mail.com",
+      "first_name": "Admin 4",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "Administrator",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666015",
+      "uuid": "static_clinician_send_admin_4"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendsuper4.clinician@mail.com",
+      "first_name": "Super 4",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666016",
+      "uuid": "static_clinician_send_super_4"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmstandard4.clinician@mail.com",
+      "first_name": "GDM Standard 4",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-GDM",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_standard_4"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmsuper4.clinician@mail.com",
+      "first_name": "Super 4",
+      "groups": [
+        "GDM Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-GDM",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_super_4"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendstandard5.clinician@mail.com",
+      "first_name": "Standard 5",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666017",
+      "uuid": "static_clinician_send_standard_5"
+    },
+    {
+      "can_edit_ews": true,
+      "contract_expiry_eod_date": "{today:+100}",
+      "email_address": "sendtemporary5.clinician@mail.com",
+      "first_name": "Temporary 5",
+      "groups": [
+        "SEND Clinician"
+      ],
+      "job_title": "Temporary Clinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666018",
+      "uuid": "static_clinician_send_temporary_5"
+    },
+    {
+      "email_address": "sendadmin5.clinician@mail.com",
+      "first_name": "Admin 5",
+      "groups": [
+        "SEND Administrator"
+      ],
+      "job_title": "Administrator",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666019",
+      "uuid": "static_clinician_send_admin_5"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "sendsuper5.clinician@mail.com",
+      "first_name": "Super 5",
+      "groups": [
+        "SEND Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-SEND",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "SEND"
+        }
+      ],
+      "send_entry_identifier": "666020",
+      "uuid": "static_clinician_send_super_5"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmstandard5.clinician@mail.com",
+      "first_name": "GDM Standard 5",
+      "groups": [
+        "GDM Clinician"
+      ],
+      "job_title": "Standard Clinician",
+      "last_name": "Test-GDM",
+      "locations": [
+        "static_location_uuid_L1",
+        "static_location_uuid_L2"
+      ],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_standard_5"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "gdmsuper5.clinician@mail.com",
+      "first_name": "Super 5",
+      "groups": [
+        "GDM Superclinician"
+      ],
+      "job_title": "Superclinician",
+      "last_name": "Test-GDM",
+      "locations": [],
+      "login_active": true,
+      "nhs_smartcard_number": "0000000000",
+      "phone_number": "07000000000",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_gdm_super_5"
+    },
+    {
+      "email_address": "dea@sensynehealth.com",
+      "first_name": "DEA",
+      "groups": [
+        "DEA Collector"
+      ],
+      "job_title": "DEA",
+      "last_name": "Team",
+      "locations": [],
+      "nhs_smartcard_number": "",
+      "phone_number": "",
+      "products": [
+        {
+          "opened_date": "2020-01-01",
+          "product_name": "GDM"
+        }
+      ],
+      "uuid": "static_clinician_uuid_dea"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "j.rousseau@mail.com",
+      "first_name": "Jean",
+      "groups": [
+        "DBM Clinician"
+      ],
+      "job_title": "diabetes nurse",
+      "last_name": "Rousseau",
+      "locations": [
+        "static_location_uuid_L3",
+        "static_organisation_uuid_O2"
+      ],
+      "nhs_smartcard_number": "498760305505",
+      "phone_number": "07635273519",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "320534",
+      "uuid": "static_clinician_uuid_J"
+    },
+    {
+      "can_edit_ews": true,
+      "email_address": "m.myers@mail.com",
+      "first_name": "Michael",
+      "groups": [
+        "DBM Clinician"
+      ],
+      "job_title": "diabetes nurse",
+      "last_name": "Myers",
+      "locations": [
+        "static_location_uuid_L3",
+        "static_organisation_uuid_O2"
+      ],
+      "nhs_smartcard_number": "498760305507",
+      "phone_number": "07635273520",
+      "products": [
+        {
+          "opened_date": "2018-09-21",
+          "product_name": "DBM"
+        }
+      ],
+      "send_entry_identifier": "320555",
+      "uuid": "static_clinician_uuid_K"
+    }
+  ]
+}

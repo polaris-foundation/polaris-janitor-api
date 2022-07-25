@@ -1,0 +1,106 @@
+{
+  "desktop": [
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_used": "2017-04-17T08:29:19.123+00:00",
+      "desktop_os": "Windows",
+      "desktop_os_version": "2010",
+      "ip_address": "195.189.79.280",
+      "unique_device_code": "4321"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_used": "2017-04-17T08:29:19.123+00:00",
+      "desktop_os": "Windows",
+      "desktop_os_version": "95",
+      "ip_address": "195.189.79.281",
+      "unique_device_code": "4322"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_used": "2017-04-17T08:29:19.123+00:00",
+      "desktop_os": "macOS",
+      "desktop_os_version": "Sierra",
+      "ip_address": "195.189.79.282",
+      "unique_device_code": "4323"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.3",
+      "date_first_used": "2017-04-17T08:29:19.123+00:00",
+      "desktop_os": "Windows",
+      "desktop_os_version": "8",
+      "ip_address": "195.189.79.283",
+      "unique_device_code": "4324"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.3",
+      "date_first_used": "2017-04-17T08:29:19.123+00:00",
+      "desktop_os": "Windows",
+      "desktop_os_version": "10",
+      "ip_address": "195.189.79.284",
+      "unique_device_code": "4325"
+    }
+  ],
+  "mobile": [
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_launched": "2017-04-17T08:29:19.123+00:00",
+      "display_name": "Saumsung S7",
+      "manufacturer": "Samsung",
+      "model": "s70001",
+      "phone_os": "android",
+      "phone_os_version": "8.0",
+      "unique_device_code": "1234"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_launched": "2017-04-17T08:29:19.123+00:00",
+      "display_name": "Saumsung S8",
+      "manufacturer": "Samsung",
+      "model": "s80001",
+      "phone_os": "android",
+      "phone_os_version": "8.0",
+      "unique_device_code": "1235"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.4",
+      "date_first_launched": "2017-04-17T08:29:19.123+00:00",
+      "display_name": "OnePlus 6",
+      "manufacturer": "OnePlus",
+      "model": "A6000",
+      "phone_os": "android",
+      "phone_os_version": "8.0",
+      "unique_device_code": "1236"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.3",
+      "date_first_launched": "2017-04-17T08:29:19.123+00:00",
+      "display_name": "OnePlus 5",
+      "manufacturer": "OnePlus",
+      "model": "A5000",
+      "phone_os": "android",
+      "phone_os_version": "8.0",
+      "unique_device_code": "1237"
+    },
+    {
+      "app_product": "GDM",
+      "app_version": "18.1.3",
+      "date_first_launched": "2017-04-17T08:29:19.123+00:00",
+      "display_name": "Apple 8",
+      "manufacturer": "Apple",
+      "model": "8",
+      "phone_os": "IOS",
+      "phone_os_version": "11",
+      "unique_device_code": "1238"
+    }
+  ]
+}

@@ -1,0 +1,2973 @@
+{
+  "location": [
+    {
+      "active": true,
+      "address_line_1": "31 Selhurst Way",
+      "address_line_2": null,
+      "address_line_3": null,
+      "address_line_4": null,
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "GDM"
+        },
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "DBM"
+        }
+      ],
+      "display_name": "Eastleigh Hospital",
+      "locality": "Fair Oak",
+      "location_type": "D0000009",
+      "ods_code": "684A0",
+      "postcode": "SE9 6AR",
+      "region": "Eastleigh",
+      "uuid": "static_location_uuid_L1"
+    },
+    {
+      "active": true,
+      "address_line_1": "305 Viscount Dr",
+      "address_line_2": null,
+      "address_line_3": null,
+      "address_line_4": null,
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "GDM"
+        },
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "DBM"
+        }
+      ],
+      "display_name": "Manchester Hospital",
+      "locality": null,
+      "location_type": "D0000009",
+      "ods_code": "684A1",
+      "postcode": "M90 5PZ",
+      "region": "Manchester",
+      "uuid": "static_location_uuid_L2"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Nightingale lane",
+      "address_line_2": null,
+      "address_line_3": null,
+      "address_line_4": null,
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "DBM"
+        }
+      ],
+      "display_name": "Brambleham Clinic",
+      "locality": "Fair Oak",
+      "location_type": "D0000009",
+      "ods_code": "685A5",
+      "postcode": "BR12 3NK",
+      "region": "Bramblehamshire",
+      "uuid": "static_location_uuid_L3"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Birch Hospital",
+      "location_type": "22232009",
+      "ods_code": "123HO",
+      "postcode": "DA6 7EE",
+      "uuid": "static_location_uuid_B1"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Beech Unit",
+      "location_type": "225746001",
+      "ods_code": "122WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-1"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Cedar Ward",
+      "location_type": "225746001",
+      "ods_code": "321WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-2"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Laurel Ward",
+      "location_type": "225746001",
+      "ods_code": "456WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-3"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Maple Ward",
+      "location_type": "225746001",
+      "ods_code": "876WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-4"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Oak Ward",
+      "location_type": "225746001",
+      "ods_code": "987WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-5"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Pine Ward",
+      "location_type": "225746001",
+      "ods_code": "905WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-6"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Sequoia Unit",
+      "location_type": "225746001",
+      "ods_code": "499WA",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-7"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Yew Ward",
+      "location_type": "225746001",
+      "ods_code": "876WB",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-8"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Aspen Ward",
+      "location_type": "225746001",
+      "ods_code": "877WB",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-9"
+    },
+    {
+      "active": true,
+      "address_line_1": "55 Grove Avenue",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Gum Ward",
+      "location_type": "225746001",
+      "ods_code": "878WB",
+      "parent": "static_location_uuid_B1",
+      "uuid": "static_location_uuid_B1-10"
+    },
+    {
+      "active": true,
+      "address_line_1": "67 Frost Avenue",
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Elm Hospital",
+      "location_type": "22232009",
+      "ods_code": "956HO",
+      "postcode": "OX4 9BD",
+      "uuid": "static_location_uuid_E1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "A&E",
+      "location_type": "225746001",
+      "ods_code": "458EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Alden Ward",
+      "location_type": "225746001",
+      "ods_code": "111EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-2"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Ash Ward",
+      "location_type": "225746001",
+      "ods_code": "545EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Chestnut Suite",
+      "location_type": "225746001",
+      "ods_code": "966EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Hazel Ward",
+      "location_type": "225746001",
+      "ods_code": "199EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-5"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Intensive Care Unit",
+      "location_type": "225746001",
+      "ods_code": "333EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-6"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Lime Ward",
+      "location_type": "225746001",
+      "ods_code": "234EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Olive Ward",
+      "location_type": "225746001",
+      "ods_code": "655EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-8"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Spruce Ward",
+      "location_type": "225746001",
+      "ods_code": "656EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Kongeegen Ward",
+      "location_type": "225746001",
+      "ods_code": "657EL",
+      "parent": "static_location_uuid_E1",
+      "uuid": "static_location_uuid_E1-10"
+    },
+    {
+      "active": true,
+      "address_line_1": "2 Stormy Avenue",
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Willow Hospital",
+      "location_type": "22232009",
+      "ods_code": "405HO",
+      "postcode": "BF4 3FJ",
+      "uuid": "static_location_uuid_W1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Acacia Ward",
+      "location_type": "225746001",
+      "ods_code": "457WI",
+      "parent": "static_location_uuid_W1",
+      "uuid": "static_location_uuid_W1-1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Cypress Ward",
+      "location_type": "225746001",
+      "ods_code": "894WI",
+      "parent": "static_location_uuid_W1",
+      "uuid": "static_location_uuid_W1-2"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Hawthorn Ward",
+      "location_type": "225746001",
+      "ods_code": "867WI",
+      "parent": "static_location_uuid_W1",
+      "uuid": "static_location_uuid_W1-3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Holly Ward",
+      "location_type": "225746001",
+      "ods_code": "142WI",
+      "parent": "static_location_uuid_W1",
+      "uuid": "static_location_uuid_W1-4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Hornbeam Ward",
+      "location_type": "225746001",
+      "ods_code": "177WI",
+      "parent": "static_location_uuid_W1",
+      "uuid": "static_location_uuid_W1-5"
+    },
+    {
+      "active": true,
+      "address_line_1": "1 Moore Drive",
+      "country": "United Kingdom",
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Sycamore Hospital",
+      "location_type": "22232009",
+      "ods_code": "622HO",
+      "postcode": "PE7 4OP",
+      "uuid": "static_location_uuid_S1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Apple Ward",
+      "location_type": "225746001",
+      "ods_code": "458SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Balsa Ward",
+      "location_type": "225746001",
+      "ods_code": "116SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-2"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Baobab Ward",
+      "location_type": "225746001",
+      "ods_code": "549SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Cherry Ward",
+      "location_type": "225746001",
+      "ods_code": "985SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Cork Ward",
+      "location_type": "225746001",
+      "ods_code": "190SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-5"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Ebony Ward",
+      "location_type": "225746001",
+      "ods_code": "382SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-6"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Larch Ward",
+      "location_type": "225746001",
+      "ods_code": "220SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Mahogany Ward",
+      "location_type": "225746001",
+      "ods_code": "499SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-8"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Rosewood Ward",
+      "location_type": "225746001",
+      "ods_code": "591SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-9"
+    },
+    {
+      "active": false,
+      "dh_products": [
+        {
+          "opened_date": "2016-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Oldwood Ward",
+      "location_type": "225746001",
+      "ods_code": "681SY",
+      "parent": "static_location_uuid_S1",
+      "uuid": "static_location_uuid_S1-10"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "RR00SXH",
+      "parent": "static_location_uuid_B1-3",
+      "uuid": "a1b10ae4-7ce1-4975-988d-b07335f3e990"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "JB54LTE",
+      "parent": "static_location_uuid_B1-3",
+      "uuid": "329adbe5-3d4c-4e6a-8bd0-09cb1c4ab84e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "UJ36CBJ",
+      "parent": "static_location_uuid_B1-3",
+      "uuid": "6978d699-016e-4343-89da-a2ec8f02adf9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "FT16NKL",
+      "parent": "static_location_uuid_B1-4",
+      "uuid": "e2301f3a-a884-4d01-a401-56fb35730789"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "XA85HHO",
+      "parent": "static_location_uuid_B1-4",
+      "uuid": "a1bf7219-cea3-4340-a55e-29a931a3b16a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "NE21PUW",
+      "parent": "static_location_uuid_B1-4",
+      "uuid": "9886e9c9-fae9-4efe-b6da-a91aa49c4cd5"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "WT48ZWV",
+      "parent": "static_location_uuid_B1-5",
+      "uuid": "7e75c6df-eb9b-48c1-8d77-c264f60394b0"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "SZ79GWA",
+      "parent": "static_location_uuid_B1-5",
+      "uuid": "9942cdea-0d6f-4bdd-b977-bbedd8f196b8"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "FZ04DGY",
+      "parent": "static_location_uuid_B1-5",
+      "uuid": "5c3f9ce8-5db6-4078-995c-c6646237ca50"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "AG88GDA",
+      "parent": "static_location_uuid_B1-6",
+      "uuid": "98863026-9e0c-48c9-911b-fe4806f7a112"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "WE19WKU",
+      "parent": "static_location_uuid_B1-6",
+      "uuid": "85d58ab9-1fb8-4e8a-aec7-1a5c3e395aca"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "ZZ83CBZ",
+      "parent": "static_location_uuid_B1-6",
+      "uuid": "727cda3f-e898-4941-a770-de9a657398d9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "SG79SCD",
+      "parent": "static_location_uuid_B1-7",
+      "uuid": "8676f574-1af7-4525-8e46-a227e253bc34"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "EQ81PIW",
+      "parent": "static_location_uuid_B1-7",
+      "uuid": "c99e2fe7-74f0-4409-a0d9-a6de4a19c37a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "FL05CUP",
+      "parent": "static_location_uuid_B1-7",
+      "uuid": "420a7969-44c4-4629-9452-b536bb66168a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "QW96FOI",
+      "parent": "static_location_uuid_B1-8",
+      "uuid": "b0df7e0f-0fac-4f70-8def-138fe39dd811"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "BX54RBC",
+      "parent": "static_location_uuid_B1-8",
+      "uuid": "c05b7c95-ec17-4f9c-8537-2c495cbcf86c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "YI67SKR",
+      "parent": "static_location_uuid_B1-8",
+      "uuid": "17c22d25-05f3-4ab5-917c-13d43a35625d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "LL41JKY",
+      "parent": "static_location_uuid_B1-10",
+      "uuid": "0c64ba12-a0e6-4953-92bb-83975656a77e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "AO82DFA",
+      "parent": "static_location_uuid_B1-10",
+      "uuid": "1e433ea5-4205-4b4d-9e20-b10bb7fcafb4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "UX87MVH",
+      "parent": "static_location_uuid_B1-10",
+      "uuid": "54ca42c4-6d75-4552-a4a9-7b4ff5b6111e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "DY67BSO",
+      "parent": "static_location_uuid_E1-1",
+      "uuid": "f5eb4cde-9fb8-44ea-8dcd-7ab5557ff07c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "RN90PPM",
+      "parent": "static_location_uuid_E1-1",
+      "uuid": "f88e042a-9d00-4a25-aad4-c44c14648d1c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "VU91YKS",
+      "parent": "static_location_uuid_E1-1",
+      "uuid": "0f64a82c-d9b5-4679-9703-4910645a88b7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "XD19YZX",
+      "parent": "static_location_uuid_E1-2",
+      "uuid": "88ca8491-fcc4-42cf-af2f-e706af9068a2"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "JS56NVO",
+      "parent": "static_location_uuid_E1-2",
+      "uuid": "ce1ba729-7ad2-45d6-90ad-a1e63bdce4c3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "KP47OZD",
+      "parent": "static_location_uuid_E1-2",
+      "uuid": "789f04d2-0cf2-4c85-86f1-f2be3d04ff04"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "OU01TUD",
+      "parent": "static_location_uuid_E1-3",
+      "uuid": "89bc9276-1c4a-4cc2-aa0a-3ba34bebc383"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "ZI55EQH",
+      "parent": "static_location_uuid_E1-3",
+      "uuid": "5748bf15-5723-46a5-aa38-60f3e7ae4e44"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "DJ41IOG",
+      "parent": "static_location_uuid_E1-3",
+      "uuid": "d109c1ca-1be2-4626-80dd-1480ac46fc3a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "ZL14JGI",
+      "parent": "static_location_uuid_E1-4",
+      "uuid": "76b1c672-5caa-4848-bc37-de21d6c8940c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "ZW68FVB",
+      "parent": "static_location_uuid_E1-4",
+      "uuid": "09b81c5c-b656-4cce-ac4c-23f50122721d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "LF82KLU",
+      "parent": "static_location_uuid_E1-4",
+      "uuid": "ec36109d-de6f-4f02-b135-2b336d89094b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "UG05GJP",
+      "parent": "static_location_uuid_E1-5",
+      "uuid": "4adb0611-19c0-45cc-9150-2feab25080d4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "KX39BMW",
+      "parent": "static_location_uuid_E1-5",
+      "uuid": "215b2ed3-5659-4edc-9bed-b2cd449107a9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "DM83PQB",
+      "parent": "static_location_uuid_E1-5",
+      "uuid": "1c096716-5254-43d4-84fe-fe9468789044"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "KI80PTY",
+      "parent": "static_location_uuid_E1-9",
+      "uuid": "7328c245-1e91-43bc-8745-b6ab651c9d1c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "VA66HBU",
+      "parent": "static_location_uuid_E1-9",
+      "uuid": "fcc1bf52-76f4-4861-bd37-5aec10cadf8e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "PM03VPN",
+      "parent": "static_location_uuid_E1-9",
+      "uuid": "12d64037-3718-46a8-98fe-1c50dd8fd659"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "NS64NBY",
+      "parent": "static_location_uuid_E1-10",
+      "uuid": "464981c5-fc6f-46bc-b493-f1a4a6311b3f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "NW96IPM",
+      "parent": "static_location_uuid_E1-10",
+      "uuid": "ff779acd-e0ee-461c-9d51-88b3985dff71"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "YO03ZKU",
+      "parent": "static_location_uuid_E1-10",
+      "uuid": "88c57178-2980-4400-9b33-a925ad9f87ff"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "NV47NKR",
+      "parent": "static_location_uuid_W1-1",
+      "uuid": "f105514b-7ad8-4192-8b02-7d0ba5f7edfd"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "UJ49VNK",
+      "parent": "static_location_uuid_W1-1",
+      "uuid": "32766e6c-4550-4d64-bd8c-d4b8523cdd36"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "TV87RYM",
+      "parent": "static_location_uuid_W1-1",
+      "uuid": "a613f888-c08b-492f-8946-ca1047f14aca"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "JQ97LZP",
+      "parent": "static_location_uuid_W1-3",
+      "uuid": "2d3e7ecb-a236-4135-b5c8-d351fa701b58"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "TB40DUK",
+      "parent": "static_location_uuid_W1-3",
+      "uuid": "2e2b1ca2-73f5-4c6b-827a-0f3224d5590e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "WX59ARE",
+      "parent": "static_location_uuid_W1-3",
+      "uuid": "94a55f7d-4aa8-401a-aa41-4fe8b79586be"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "QV99DLW",
+      "parent": "static_location_uuid_W1-4",
+      "uuid": "3150e20e-450a-4fe2-a2c5-fb8f1dc694f4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "FW00RJA",
+      "parent": "static_location_uuid_W1-4",
+      "uuid": "c7db1027-dba7-4880-94ad-60e5445853fe"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "CL83UQT",
+      "parent": "static_location_uuid_W1-4",
+      "uuid": "0f5fe3b1-c323-43e9-9957-7ee685bec517"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "QI75ULZ",
+      "parent": "static_location_uuid_S1-5",
+      "uuid": "c549d43f-e45b-44af-a111-bc29d11d4a51"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "DW37HFR",
+      "parent": "static_location_uuid_S1-5",
+      "uuid": "7b24753d-c6f5-437c-afc2-bccd4e7cec3d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "UJ38BMK",
+      "parent": "static_location_uuid_S1-5",
+      "uuid": "5b931101-2e45-4b5a-b3a8-f8cf330cd289"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "WR71WLK",
+      "parent": "static_location_uuid_S1-6",
+      "uuid": "496b95b1-e24c-4fa2-b06b-052f1b07bc28"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "ED45TME",
+      "parent": "static_location_uuid_S1-6",
+      "uuid": "7faadf06-241d-4028-a796-519535224695"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "VW18EHQ",
+      "parent": "static_location_uuid_S1-6",
+      "uuid": "6dd92cbd-561b-442a-9a7b-9baddedef8cc"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "XC98ZPG",
+      "parent": "static_location_uuid_S1-7",
+      "uuid": "412505e6-2fc5-4666-b598-99aa33f628ea"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "IF77DFV",
+      "parent": "static_location_uuid_S1-7",
+      "uuid": "444e9ca6-7f24-4bc2-bc4a-c4809e312398"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "DK26IIG",
+      "parent": "static_location_uuid_S1-7",
+      "uuid": "f2e813d9-1491-42b3-8eb3-ec033feac532"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 1",
+      "location_type": "225730009",
+      "ods_code": "OB68HVV",
+      "parent": "static_location_uuid_S1-9",
+      "uuid": "19518db1-3016-4645-807b-e0b1fab7644a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 2",
+      "location_type": "225730009",
+      "ods_code": "IO85VRN",
+      "parent": "static_location_uuid_S1-9",
+      "uuid": "651df87b-0a15-4939-b145-b784a1413150"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bay 3",
+      "location_type": "225730009",
+      "ods_code": "UU85NNS",
+      "parent": "static_location_uuid_S1-9",
+      "uuid": "9c880ec0-5c12-46fe-920a-f4efa517e599"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "HT77FGH",
+      "parent": "static_location_uuid_B1-2",
+      "uuid": "d3900a7d-7f7b-46de-a434-f38845fc2b5b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "YM25NDW",
+      "parent": "static_location_uuid_B1-2",
+      "uuid": "56f5f9dd-cea1-438b-b04d-35098602b063"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "KO76HKW",
+      "parent": "static_location_uuid_B1-2",
+      "uuid": "ebd851e5-8287-4b31-89ee-a56db08562c8"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "UZ13ISN",
+      "parent": "static_location_uuid_B1-9",
+      "uuid": "180484c3-af4c-400d-8d04-a5a55829bf77"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "KI44HGA",
+      "parent": "static_location_uuid_B1-9",
+      "uuid": "579ea889-2b8d-43f5-89d3-9586371fdc14"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "GO59BGJ",
+      "parent": "static_location_uuid_B1-9",
+      "uuid": "7e21478d-af99-494a-980d-7952ad9c5b0d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "AG94YOE",
+      "parent": "static_location_uuid_E1-6",
+      "uuid": "120382f6-7032-4c12-b3b9-2f11e59ee5ac"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "KT21ULJ",
+      "parent": "static_location_uuid_E1-6",
+      "uuid": "c20067d9-9dd1-4e50-af2b-a20c3679897a"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "BU00JGB",
+      "parent": "static_location_uuid_E1-6",
+      "uuid": "f7924c13-8bf4-43d5-a55b-275af51a8808"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "CR24MRE",
+      "parent": "static_location_uuid_S1-2",
+      "uuid": "ca3bce82-dc8c-4e20-9e7a-0c99922456a9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "HW95FFZ",
+      "parent": "static_location_uuid_S1-2",
+      "uuid": "e24466d1-7d4a-49fb-9d8a-ccf79df76e2f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "DF06NXT",
+      "parent": "static_location_uuid_S1-2",
+      "uuid": "d6ccd8fc-c48c-4be9-ab28-0e54e7bdd900"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "YO60LXY",
+      "parent": "static_location_uuid_S1-3",
+      "uuid": "57bf5403-4621-4726-a61f-e5dc25600efc"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "NC66FRF",
+      "parent": "static_location_uuid_S1-3",
+      "uuid": "3fdadf50-34c6-49d9-9d0b-f6295604b57e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "LW93ANX",
+      "parent": "static_location_uuid_S1-3",
+      "uuid": "8215662a-173b-40c0-99a8-fd956a65c24e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "RO82APF",
+      "parent": "static_location_uuid_S1-4",
+      "uuid": "6b0ed03c-16c8-431d-b769-9ddc88037624"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "TX35JLQ",
+      "parent": "static_location_uuid_S1-4",
+      "uuid": "5bed0ab9-5ba1-4988-b46c-0001a5392d28"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "ED64NEQ",
+      "parent": "static_location_uuid_S1-4",
+      "uuid": "be477a70-1280-4040-885a-031fd306e6f6"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "LX99BOK",
+      "parent": "static_location_uuid_S1-8",
+      "uuid": "f607332d-6fa7-4f7f-9db7-f2eabbb27ac1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "QK87WBW",
+      "parent": "static_location_uuid_S1-8",
+      "uuid": "7b11bdf5-016b-4df1-b721-9beded05e801"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "MF46YWH",
+      "parent": "static_location_uuid_S1-8",
+      "uuid": "3cbb26a2-213c-42d6-b046-75b987f3672e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "DM40SUZ",
+      "parent": "329adbe5-3d4c-4e6a-8bd0-09cb1c4ab84e",
+      "uuid": "8c3f99b9-bf9a-4df2-b039-fe73ea450084"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "IG10ETQ",
+      "parent": "329adbe5-3d4c-4e6a-8bd0-09cb1c4ab84e",
+      "uuid": "af32395e-f54a-4f5b-a339-f3d9f4a20d8b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "II45ROX",
+      "parent": "329adbe5-3d4c-4e6a-8bd0-09cb1c4ab84e",
+      "uuid": "d86e12cc-6332-4d07-83af-abd94f554736"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "SO09XFG",
+      "parent": "6978d699-016e-4343-89da-a2ec8f02adf9",
+      "uuid": "aaaf0b5d-18e5-437c-9a4d-47c2d002bac7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "KO75KMY",
+      "parent": "6978d699-016e-4343-89da-a2ec8f02adf9",
+      "uuid": "183cf8d7-cd58-43dd-8ff0-1f28e0918037"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "XY03LBX",
+      "parent": "6978d699-016e-4343-89da-a2ec8f02adf9",
+      "uuid": "df616a55-5373-4cf8-a5dc-8572bdf6e9d2"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "JX08JPJ",
+      "parent": "9886e9c9-fae9-4efe-b6da-a91aa49c4cd5",
+      "uuid": "67d667b6-4510-46bb-86d5-eea20a794960"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "TH36MLF",
+      "parent": "9886e9c9-fae9-4efe-b6da-a91aa49c4cd5",
+      "uuid": "ae76a356-c631-4bc6-8590-9382248437f3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "LX25RXE",
+      "parent": "9886e9c9-fae9-4efe-b6da-a91aa49c4cd5",
+      "uuid": "b5afab96-9059-42b6-97bc-ea629295245b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "ST07KFR",
+      "parent": "5c3f9ce8-5db6-4078-995c-c6646237ca50",
+      "uuid": "67c04ddf-0532-43f3-8ea2-a022679da0f7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "EN68KLI",
+      "parent": "5c3f9ce8-5db6-4078-995c-c6646237ca50",
+      "uuid": "474344cd-90e4-4cd5-bc5c-b0be3d295c09"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "BG08TQO",
+      "parent": "5c3f9ce8-5db6-4078-995c-c6646237ca50",
+      "uuid": "f37637dd-c6de-4758-b21e-a4dbda1d4291"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "LP21AYD",
+      "parent": "8676f574-1af7-4525-8e46-a227e253bc34",
+      "uuid": "da907cb1-8da6-4785-8c7c-74fb664951d4"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "QQ48XCI",
+      "parent": "8676f574-1af7-4525-8e46-a227e253bc34",
+      "uuid": "ca1f8652-651d-44cd-9531-150ae769634e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "QE28UCV",
+      "parent": "8676f574-1af7-4525-8e46-a227e253bc34",
+      "uuid": "2bf0a54d-d183-4909-9625-f49470f727f8"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "JY39VQR",
+      "parent": "b0df7e0f-0fac-4f70-8def-138fe39dd811",
+      "uuid": "4bda4c82-8493-4abe-aeeb-1d3f4f8dba0e"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "PA89TUW",
+      "parent": "b0df7e0f-0fac-4f70-8def-138fe39dd811",
+      "uuid": "660f587c-5ac5-439b-8e76-d8e825e6329b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "KY16GZH",
+      "parent": "b0df7e0f-0fac-4f70-8def-138fe39dd811",
+      "uuid": "da8ea880-2c4e-4caf-9199-597344b81b37"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "OZ76LLY",
+      "parent": "17c22d25-05f3-4ab5-917c-13d43a35625d",
+      "uuid": "e0642d49-dfe6-4952-9600-2fac68e65ea7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "CB82IDP",
+      "parent": "17c22d25-05f3-4ab5-917c-13d43a35625d",
+      "uuid": "64d89061-c4be-4867-a22e-080e9c192f24"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "VT35EJN",
+      "parent": "17c22d25-05f3-4ab5-917c-13d43a35625d",
+      "uuid": "e690beb9-2240-4cf1-a2cf-5a1b9c30d89f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "XC68WUV",
+      "parent": "0c64ba12-a0e6-4953-92bb-83975656a77e",
+      "uuid": "cd6c343b-e7c1-4851-97cf-67cb914ebe30"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "NV28JQY",
+      "parent": "0c64ba12-a0e6-4953-92bb-83975656a77e",
+      "uuid": "f37ef51a-c699-487c-b842-7944d46b1c26"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "VV64WXF",
+      "parent": "0c64ba12-a0e6-4953-92bb-83975656a77e",
+      "uuid": "11ee0807-aa1c-4191-8f2f-5d8211a6a593"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "DR67LBL",
+      "parent": "0f64a82c-d9b5-4679-9703-4910645a88b7",
+      "uuid": "d28c67b4-4693-4eb8-bf15-577db569e422"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "KC93TPJ",
+      "parent": "0f64a82c-d9b5-4679-9703-4910645a88b7",
+      "uuid": "fae4a141-b02a-4a97-ae16-d054720a5fcc"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "CG19DIH",
+      "parent": "0f64a82c-d9b5-4679-9703-4910645a88b7",
+      "uuid": "37e4b6d9-bc82-49ed-b160-a3d1cb73a196"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "JC45FPR",
+      "parent": "88ca8491-fcc4-42cf-af2f-e706af9068a2",
+      "uuid": "bbac04ad-a3e7-4015-82a2-6ca071f2669f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "MK84TKL",
+      "parent": "88ca8491-fcc4-42cf-af2f-e706af9068a2",
+      "uuid": "8d494886-fde6-4ae2-ac55-ce1e8e48843b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "UL46CWS",
+      "parent": "88ca8491-fcc4-42cf-af2f-e706af9068a2",
+      "uuid": "d889014e-f483-4982-882e-765cfcdbf9e6"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "MF88AOZ",
+      "parent": "ce1ba729-7ad2-45d6-90ad-a1e63bdce4c3",
+      "uuid": "418bf0f5-c2b3-4dbd-b6cb-ac8bea10dfd6"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "SJ59UEH",
+      "parent": "ce1ba729-7ad2-45d6-90ad-a1e63bdce4c3",
+      "uuid": "952b861d-7e9c-44d3-8c82-1c6c3047e20b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "QX87KIE",
+      "parent": "ce1ba729-7ad2-45d6-90ad-a1e63bdce4c3",
+      "uuid": "11c39cac-f98d-4a08-9d10-84bb28b46df7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "CD86YIK",
+      "parent": "789f04d2-0cf2-4c85-86f1-f2be3d04ff04",
+      "uuid": "1644ebe7-d3fc-46e2-b3b4-114c5c01a17d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "ER72WGH",
+      "parent": "789f04d2-0cf2-4c85-86f1-f2be3d04ff04",
+      "uuid": "a08fb9ce-9562-483e-b5b7-9cedaeabe821"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "UE91MAL",
+      "parent": "789f04d2-0cf2-4c85-86f1-f2be3d04ff04",
+      "uuid": "18724c99-68a8-4e35-bfd4-e15e651f2e35"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "CJ54ACD",
+      "parent": "5748bf15-5723-46a5-aa38-60f3e7ae4e44",
+      "uuid": "c96086d1-82eb-4c75-9776-41e5ceb622d9"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "UO60KMO",
+      "parent": "5748bf15-5723-46a5-aa38-60f3e7ae4e44",
+      "uuid": "81599e9c-6b47-443c-96db-74a506498100"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "XJ58TUH",
+      "parent": "5748bf15-5723-46a5-aa38-60f3e7ae4e44",
+      "uuid": "12b81464-7db1-4d4b-8d2c-4428fae46976"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "UA67EPR",
+      "parent": "4adb0611-19c0-45cc-9150-2feab25080d4",
+      "uuid": "c592dde5-716b-4911-8fef-0ed377c8348d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "RA66HMY",
+      "parent": "4adb0611-19c0-45cc-9150-2feab25080d4",
+      "uuid": "822562b7-a90d-451d-a8ee-7506e4a4f771"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "ZB14SHP",
+      "parent": "4adb0611-19c0-45cc-9150-2feab25080d4",
+      "uuid": "aa7c9530-85f5-4cce-b27a-21d822687be7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "OG52RNG",
+      "parent": "215b2ed3-5659-4edc-9bed-b2cd449107a9",
+      "uuid": "870434f9-fbdd-4d9f-b4db-d170a1a5ae9d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "ZD61MQZ",
+      "parent": "215b2ed3-5659-4edc-9bed-b2cd449107a9",
+      "uuid": "a500c20e-0590-4054-9054-6d7981cf9461"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "ZS38NUA",
+      "parent": "215b2ed3-5659-4edc-9bed-b2cd449107a9",
+      "uuid": "682b2589-e70e-4db0-8ab9-5b58aa061714"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "KK90YJI",
+      "parent": "12d64037-3718-46a8-98fe-1c50dd8fd659",
+      "uuid": "be9de945-2ddd-4334-b503-2caccd42504d"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "MR54TDO",
+      "parent": "12d64037-3718-46a8-98fe-1c50dd8fd659",
+      "uuid": "91a780dc-4c22-426e-a14b-15d1940d788f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "MG60QOQ",
+      "parent": "12d64037-3718-46a8-98fe-1c50dd8fd659",
+      "uuid": "2ce312c5-0739-44f8-b4ce-0cf439bc134b"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "VK46UYW",
+      "parent": "f105514b-7ad8-4192-8b02-7d0ba5f7edfd",
+      "uuid": "988a8b24-e50c-4e9a-b0de-7fbac6d1f640"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "HG44WQQ",
+      "parent": "f105514b-7ad8-4192-8b02-7d0ba5f7edfd",
+      "uuid": "bc27d6ce-ddd0-4c53-837d-7e54958e4274"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "TC05IIL",
+      "parent": "f105514b-7ad8-4192-8b02-7d0ba5f7edfd",
+      "uuid": "fb619311-5c8b-419f-a38e-02a30efff279"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "HV69BUV",
+      "parent": "2e2b1ca2-73f5-4c6b-827a-0f3224d5590e",
+      "uuid": "6d34a63e-e0c5-492b-a703-5296a013e351"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "FY83EFA",
+      "parent": "2e2b1ca2-73f5-4c6b-827a-0f3224d5590e",
+      "uuid": "45012b62-ffb2-4b6b-b688-ed082cc0ff74"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "KW20PDG",
+      "parent": "2e2b1ca2-73f5-4c6b-827a-0f3224d5590e",
+      "uuid": "ce40ab1b-ba4b-460d-b1cb-ea888a21af88"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "BL60BWX",
+      "parent": "94a55f7d-4aa8-401a-aa41-4fe8b79586be",
+      "uuid": "b53083d0-0f2f-4702-8f07-93ab9fadb919"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "RC62WSZ",
+      "parent": "94a55f7d-4aa8-401a-aa41-4fe8b79586be",
+      "uuid": "d5f539aa-4fbc-46ec-b238-d85429d0f0e3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "XE43TRA",
+      "parent": "94a55f7d-4aa8-401a-aa41-4fe8b79586be",
+      "uuid": "d7ef7a68-0b7c-4221-98c2-85682eb4f4ab"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "OJ04VQX",
+      "parent": "7b24753d-c6f5-437c-afc2-bccd4e7cec3d",
+      "uuid": "9d1406d7-228f-4d3c-8517-6190904f36b7"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "GV98MLN",
+      "parent": "7b24753d-c6f5-437c-afc2-bccd4e7cec3d",
+      "uuid": "842904f5-a765-4919-b3cc-39c454141c2f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "ZH27VWG",
+      "parent": "7b24753d-c6f5-437c-afc2-bccd4e7cec3d",
+      "uuid": "32b6bf91-da12-4dae-aa23-cf43e2c94a44"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "MB98TKP",
+      "parent": "496b95b1-e24c-4fa2-b06b-052f1b07bc28",
+      "uuid": "7496a3d0-fd2f-4b3f-b0b7-e9f26d338b13"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "SV28QKA",
+      "parent": "496b95b1-e24c-4fa2-b06b-052f1b07bc28",
+      "uuid": "b369a030-419b-46d9-9983-d320dc98c9bc"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "XL16JSG",
+      "parent": "496b95b1-e24c-4fa2-b06b-052f1b07bc28",
+      "uuid": "9ad5ab22-610e-449a-8d91-be89cad05460"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "IU85ZGU",
+      "parent": "7faadf06-241d-4028-a796-519535224695",
+      "uuid": "e5d2c408-6151-43de-8a87-5cda78295c70"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "PS19QOX",
+      "parent": "7faadf06-241d-4028-a796-519535224695",
+      "uuid": "8d0c1ced-79ff-4fab-85e9-7eb4465c02af"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "OC38NBS",
+      "parent": "7faadf06-241d-4028-a796-519535224695",
+      "uuid": "3dd73c65-f03c-431b-9519-e3aef006033f"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "FT21QYN",
+      "parent": "412505e6-2fc5-4666-b598-99aa33f628ea",
+      "uuid": "24c4e6cf-34fc-437b-a9e6-914b614333d1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "KM05GOT",
+      "parent": "412505e6-2fc5-4666-b598-99aa33f628ea",
+      "uuid": "faf89f23-b04c-4ea7-9a76-c526c8c145cf"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "XT40SIR",
+      "parent": "412505e6-2fc5-4666-b598-99aa33f628ea",
+      "uuid": "6508300d-a77b-4aae-9105-1e17f856a003"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "OP93SGT",
+      "parent": "444e9ca6-7f24-4bc2-bc4a-c4809e312398",
+      "uuid": "623b5780-678e-4eba-82d9-438b9bca51ff"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "UJ83EBK",
+      "parent": "444e9ca6-7f24-4bc2-bc4a-c4809e312398",
+      "uuid": "7a18a046-a6de-421b-8fe4-b736c873b9c3"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "IL11WOH",
+      "parent": "444e9ca6-7f24-4bc2-bc4a-c4809e312398",
+      "uuid": "56ded79c-b9b2-4d0e-95c6-4c82f7bdaa58"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "ES00ZXZ",
+      "parent": "f2e813d9-1491-42b3-8eb3-ec033feac532",
+      "uuid": "379bd148-2284-40a1-83f1-029e2b3b859c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "BQ45FFU",
+      "parent": "f2e813d9-1491-42b3-8eb3-ec033feac532",
+      "uuid": "58b0a5af-a279-493f-a603-258fe9c9667c"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "ZM77BNL",
+      "parent": "f2e813d9-1491-42b3-8eb3-ec033feac532",
+      "uuid": "aafa7da6-7950-4fa9-8746-7215f7fffd74"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "CH84KFO",
+      "parent": "651df87b-0a15-4939-b145-b784a1413150",
+      "uuid": "1737c8d5-cca2-4c2d-bd26-2a6c7a5ead52"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "IS51PNN",
+      "parent": "651df87b-0a15-4939-b145-b784a1413150",
+      "uuid": "406b6b8e-50d0-4017-8194-074c7a6e19ab"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "FG34AXW",
+      "parent": "651df87b-0a15-4939-b145-b784a1413150",
+      "uuid": "f3dbfc8c-7757-4d32-b1a5-878c8676ca42"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 1",
+      "location_type": "229772003",
+      "ods_code": "UA46GBR",
+      "parent": "9c880ec0-5c12-46fe-920a-f4efa517e599",
+      "uuid": "924bc322-df1f-444e-b5b0-16b9c5aebd41"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 2",
+      "location_type": "229772003",
+      "ods_code": "IV94LRC",
+      "parent": "9c880ec0-5c12-46fe-920a-f4efa517e599",
+      "uuid": "961e32eb-1baf-4fb7-9ac6-71e686f5f623"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "SEND"
+        }
+      ],
+      "display_name": "Bed 3",
+      "location_type": "229772003",
+      "ods_code": "TO89LNZ",
+      "parent": "9c880ec0-5c12-46fe-920a-f4efa517e599",
+      "uuid": "a5566e73-b94c-426c-8e30-3ae3477791ac"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "DBM"
+        }
+      ],
+      "display_name": "Normal Unit",
+      "location_type": "723231000000104",
+      "uuid": "static_organisation_uuid_O1"
+    },
+    {
+      "active": true,
+      "dh_products": [
+        {
+          "opened_date": "2017-10-19",
+          "product_name": "DBM"
+        }
+      ],
+      "display_name": "Special Unit",
+      "location_type": "723231000000104",
+      "uuid": "static_organisation_uuid_O2"
+    }
+  ]
+}

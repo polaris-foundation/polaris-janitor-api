@@ -1,0 +1,9 @@
+behave==1.*
+black
+environs
+isort
+mypy
+neo4j-driver
+python-jose==3.*
+reportportal-behave-client==1.*
+requests
