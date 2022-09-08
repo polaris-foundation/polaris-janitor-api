@@ -8,7 +8,6 @@ from flask_batteries_included.helpers.timestamp import (
     parse_date_to_iso8601,
     parse_datetime_to_iso8601,
 )
-from she_data_generation.patient import nhs_number as sdg_nhs_number
 
 from dhos_janitor_api.helpers import names
 
@@ -117,8 +116,30 @@ def data_lists() -> Dict:
     return data_dict
 
 
+def random_string(length: int, letters: bool = True, digits: bool = True) -> str:
+    choices: str = ""
+    if letters:
+        choices += string.ascii_letters
+    if digits:
+        choices += string.digits
+    return "".join(random.choice(choices) for _ in range(length))
+
+
 def generate_nhs_number() -> str:
-    return sdg_nhs_number()
+    """
+    An NHS number must be 10 digits, where the last digit is a check digit using the modulo 11 algorithm
+    (see https://datadictionary.nhs.uk/attributes/nhs_number.html).
+    """
+    first_nine: str = random_string(length=9, letters=False, digits=True)
+    digits: List[int] = list(map(int, list(first_nine)))
+    total = sum((10 - i) * digit for i, digit in enumerate(digits))
+    check_digit = 11 - (total % 11)
+    if check_digit == 10:
+        # Invalid - try again
+        return generate_nhs_number()
+    if check_digit == 11:
+        check_digit = 0
+    return first_nine + str(check_digit)
 
 
 def convert_time(dt: datetime) -> datetime:
