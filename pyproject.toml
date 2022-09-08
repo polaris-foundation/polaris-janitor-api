@@ -4,7 +4,7 @@ version = "0.1.0"
 description = "Polaris Janitor API"
 authors = ["Ian Simpson <ian.simpson@sensynehealth.com>"]
 keywords = ["Polaris", "Swagger", "Janitor", "Reset"]
-repository = "https://github.com/polaris-foundation/dhos-janitor-api"
+repository = "https://github.com/polaris-foundation/polaris-janitor-api"
 
 [tool.poetry.dependencies]
 python = "^3.9"
