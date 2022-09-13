@@ -3,6 +3,10 @@
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/ambv/black)
 
+***Note: this service is not fully functional because it relies on private, proprietary services that are not part of Polaris (which is open-source).
+
+For this service to become functional it would have to be changed not to depend on non-Polaris services.***
+
 <!-- Description - Fewer than 500 words that describe what a service delivers, providing an informative, descriptive, and comprehensive overview of the value a service brings to the table. -->
 The Janitor API is part of the Polaris platform (formerly DHOS). This service is only for non-production environments, 
 and is responsible for manipulating the data in other microservices, for the purposes of development, testing, and 
