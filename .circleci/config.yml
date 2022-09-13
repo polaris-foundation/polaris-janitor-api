@@ -65,13 +65,13 @@ workflows:
     jobs:
       - test:
           context: polaris-foundation
-      - integration-test:
-          context: polaris-foundation
+      # NB: Tests disabled because they rely on private proprietary services
+      # - integration-test:
+      #     context: polaris-foundation
       - deploy-dev:
           context: polaris-foundation
           requires:
             - test
-            - integration-test
           filters:
             branches:
               only:
